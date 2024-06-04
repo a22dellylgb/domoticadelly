@@ -28,7 +28,9 @@ Práctica 4: fue la del sensor, cambiamos  el código e hicimos nodos en NodeRed
 
 ![maqueta24](https://github.com/a22dellylgb/domoticadelly/assets/171035942/b9e3654c-465a-48c6-a7fe-562c0d3a2a7a)
 
+![nodosDelly](https://github.com/a22dellylgb/domoticadelly/assets/171035942/1aa6f0e5-2f83-4f59-a55a-0e831364c611)
 
+![flowsp4_Delly](https://github.com/a22dellylgb/domoticadelly/assets/171035942/5f6f85b4-170d-4c21-b7ed-3e54cb93c68c)
 
 
 
