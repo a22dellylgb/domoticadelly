@@ -19,11 +19,11 @@ TAMBIÉN HICIMOS 4 PRÁCTICAS DE IoT CON ARDUINO, MQTT E NODE-RED.
 
 La primera práctica de casa Domótica fue de conectar un ESP32 por wifi a la misma red que el servidor mqtt, modificamos el código cambiando las líneas de wifi ssid, contrasinal wifi, nome ou ip do servidor broker mqtt y WiFiClient espCliente.
 
-Práctica 2: fue para controlar un  led (encender y apagarlo), aquí también modificamos el código y enumeramos el led con nuestro número correspondiente, en mi caso el 1.
+Práctica 2: Aprendimos a acender e apagar un LED desde NodeRed.
 
-Práctica 3: fue la del botón, aquí también configuramos el código e hicimos nodos en NodeRed.
+Práctica 3: Aprendimos a acender e apagar un LED cando pulsamos un botón conectado ao GPIO4.
 
-Práctica 4: fue la del sensor, cambiamos  el código e hicimos nodos en NodeRed.
+Práctica 4: Utilizamos un sensor DHT11 que mide temperatura e humidade para facer funcionar un ventilador que é accionado por un relé. Para eso tuvimos que hacer un nodo en NodeRed.
 
 
 ![maqueta24](https://github.com/a22dellylgb/domoticadelly/assets/171035942/b9e3654c-465a-48c6-a7fe-562c0d3a2a7a)
