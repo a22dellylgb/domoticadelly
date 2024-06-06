@@ -1,0 +1,17 @@
+1: Un Sistema de Control de Clima en Casa
+
+    Función: Mantener un ambiente confortable en nuestra casa.
+    
+    Automatización:
+        Sensor de Temperatura: Si la temperatura interior supera un nivel cómodo, el ventilador se enciende para enfriar la habitación.
+        Sensor de Humedad: Si la humedad es demasiado alta, el ventilador también puede ayudar a reducirla mediante la circulación de aire.
+        Luces: Se encienden automáticamente al anochecer o cuando se detecta movimiento en una habitación, mejorando la eficiencia energética.
+
+2: Sistema de Almacenamiento de Alimentos
+
+    Función: Mantener condiciones óptimas para la conservación de nuestros alimentos.
+    
+    Automatización:
+        Sensor de Temperatura: Si la temperatura del área de almacenamiento de alimentos sube por encima de un umbral seguro, el ventilador se enciende para ayudar a reducirla.
+        Sensor de Humedad: Si la humedad es demasiado alta o baja, se pueden activar sistemas de deshumidificación o humidificación, respectivamente, para mantener los niveles adecuados.
+        Luces: Se encienden cuando se abre la puerta del almacenamiento para facilitar la visibilidad.
